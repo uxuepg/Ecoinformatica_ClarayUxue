@@ -7,6 +7,7 @@ Los archivos raster del estudio están disponibles en Google Drive:
 
 ## Resultados y Exportaciones
 En la carpeta `exports` se encuentran los resultados generados para este proyecto.
+Además, en el archivo denominado `trabajo_ecoinf(2)` se encuentra el proceso y mapa resultante del NDVI en Sierra Nevada y en el archivo `mapa_NBR_trabajo(1)` se encuentra el mapa de NBR de la zona de estudio en Sierra Nevada. 
 
 
 
